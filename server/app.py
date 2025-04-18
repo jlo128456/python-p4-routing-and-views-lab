@@ -37,4 +37,5 @@ def math(num1, operation, num2):
         result = num1 % num2
     else:
         return None
-    return str(result)           
+    return str(result)
+               
